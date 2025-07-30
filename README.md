@@ -7,7 +7,7 @@ A simple and responsive machine learning web app that predicts the likelihood of
 
 ## 🚀 Hosted Link
 
-👉 [https://rahul-diabetes-app.streamlit.app]((https://wine-quality-prediction-rkg.streamlit.app/))
+👉 (https://wine-quality-prediction-rkg.streamlit.app)
 
 ---
 
